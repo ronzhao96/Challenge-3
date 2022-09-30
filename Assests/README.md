@@ -43,3 +43,4 @@ randomNumber1 = Math.floor(Math.random() * letters.length);
 <br>
 
 ## Link
+https://ronzhao96.github.io/Challenge-3/
