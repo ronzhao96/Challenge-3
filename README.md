@@ -37,9 +37,9 @@ randomNumber1 = Math.floor(Math.random() * letters.length);
 
 ## Bugs
 * Password generator will not generate on the first try 
-![img](./Screenshot1.png)
+![img](./Assests/Screenshot1.png)
 * On second attempt, password is generated but is accomnpanied with "Object HTMLTextAreaElement" 
-![img](./)
+![img](./Assests/Screenshot2.png)
 <br>
 
 ## Link
